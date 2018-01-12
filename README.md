@@ -1,6 +1,6 @@
 
 
-1) salesforce domains save to file:    salesforce.list
+1) salesforce domains save to file:    any.list
 2) in terminal paste this command:
  
 --cut-here
